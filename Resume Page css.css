@@ -115,15 +115,15 @@ PAGE PORTFOLIO
     float: left;
     width: 45%;
     margin: 2.5%;
-    background-color: #f5f5f5;
-    color: #063c5c;
+    background-color: #4b4949;
+    color: #ffffff;
 }
 
 #gallery li a p {
     margin: 0;
     padding: 5%;
     font-size: 0.75em;
-    color: #063c5c;
+    color: #ffffff;
 }
 
 
