@@ -191,7 +191,7 @@ h1, h2 {
 
 /* nav background on mobile */
 #navigation {
-   background-color: #063c5c;
+   background-color: #111111;
 }
 
 /*links*/
@@ -206,11 +206,11 @@ nav a, nav a:visited {
 
 /* selected nav link */
 nav a.selected {
-    color: #6062dd;
+    color: #242425;
 }
 
 nav a:hover {
-    color: #545477;
+    color: #3a3a3d;
 }
 /* site body */
 body {
