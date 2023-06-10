@@ -181,8 +181,8 @@ COLORS
 ***************************/
 /* blue header */
 header {
-    background: #126ca0;
-    border-color: #063c5c;
+    background: #111111;
+    border-color: #000000;
 }
 
 h1, h2 {
