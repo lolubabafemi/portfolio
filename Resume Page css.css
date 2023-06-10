@@ -90,7 +90,7 @@ footer {
     text-align: center;
     clear: both;
     padding-top: 50px;
-    color: #063c5c;
+    color: #ffffff;
 }
 
 .social-icon {
@@ -206,7 +206,7 @@ nav a, nav a:visited {
 
 /* selected nav link */
 nav a.selected {
-    color: #242425;
+    color: #535355;
 }
 
 nav a:hover {
