@@ -169,8 +169,8 @@ CONTACT PAGE
     background-image: url('Images/Social\ Media\ Icons/mail.png');
 }
 
-p {
-    text-align: center;
+#primary p {
+    text-align: left;
 }
 
 
