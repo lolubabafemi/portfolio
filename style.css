@@ -301,18 +301,18 @@ footer hr {
   }
   body {
     overflow-x: hidden;
-    padding: 20px 0px 0px;
+    padding: 0px 0px 0px;
     /* background-color: white; */
   }
 
   header {
     position: relative;
-    margin: 0px 10px;
     display: flex;
-    padding: 0px;
+    padding: 40px 10px 20px;
     justify-content: space-between;
     align-items: center;
     margin-bottom: 60px;
+    background-color: white;
   }
 
   .menu_open,
@@ -330,18 +330,16 @@ footer hr {
 
   #nav {
     border-radius: 10px 0px 0px 10px;
-    padding-top: 10px;
+    padding-top: 80px;
     padding-left: 20px;
     padding-bottom: 20px;
     width: 120px;
-    /* height: 150px; */
     padding: 20px 30px 10px;
     flex-direction: column;
     gap: 10px;
     position: absolute;
-    /* right: -100%; */
-    right: 0%;
-    top: -40%;
+    right: -100%;
+    top: 0%;
     background-color: #f8520e;
     color: white;
     z-index: 80;
