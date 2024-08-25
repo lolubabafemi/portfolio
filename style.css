@@ -295,6 +295,23 @@ footer hr {
   gap: 30px;
 }
 
+
+#gallery {
+  display: grid;
+  justify-content: center;
+  grid-template-columns: 300px 300px 300px;
+  gap: 100px;
+  margin: 0px auto 50px;
+  list-style: none;
+}
+#gallery p {
+ background-color: white;
+ width: 100%;
+ border-radius: 10px;
+ padding: 10px 0px;
+}
+
+
 @media screen and (max-width: 578px) {
   html {
     overflow-x: hidden;
