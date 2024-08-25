@@ -58,4 +58,8 @@ const openMenu = () => {
   }
 
 
+  function scrollToSection(sectionId) {
+    document.getElementById('portfolio').scrollIntoView({ behavior: 'smooth' });
+  }
+
 
