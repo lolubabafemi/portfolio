@@ -307,7 +307,19 @@ footer hr {
   gap: 100px;
   margin: 0px auto 50px;
   list-style: none;
+  transition: 0.5s ease-in-out;
 }
+#gallery img {
+  height: 70%;
+  margin-bottom: 10px;
+  transition: 200ms ease;
+}
+
+#gallery img:hover{
+ scale: 110%;
+}
+
+
 #gallery p {
  background-color: white;
  width: 100%;
